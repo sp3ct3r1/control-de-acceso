@@ -12,6 +12,8 @@
 6. Regulador 9v-5v L7805ACD2T
 7. Rele 9v PC817
 8. Keypad 4x4
+9. bornera de 2
+10. bornera de 3
 
  Some basic Git commands are:
 ```
