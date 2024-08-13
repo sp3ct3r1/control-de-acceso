@@ -1,4 +1,7 @@
 ## control de acceso con RFID
-# hecho por:
-<!--
-**Rfid**
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
