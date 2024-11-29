@@ -1,6 +1,7 @@
 # control de acceso con RFID
 ### Este es un proyecto de un control de acceso con un lector RFID, utilizando un ESP32 como microcontrolador.
 ![image](https://github.com/user-attachments/assets/c7004d5c-50b9-4dec-84d9-a7679e8b6d6a)
+![image](https://github.com/user-attachments/assets/9a933691-8b28-4c64-866c-f5e091b44782)
 ![image](https://github.com/user-attachments/assets/a8055412-127c-48c3-94c0-14702be54389)
 
 ### Los componentes utilizados son:
